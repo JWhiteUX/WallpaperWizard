@@ -2,6 +2,8 @@
 
 A lightweight macOS menu bar app that plays looping videos as your desktop wallpaper.
 
+<img width="393" height="202" alt="Frame 1" src="https://github.com/user-attachments/assets/37718bbf-3753-4800-9ebf-aae8dc4d0e19" />
+
 ## Features
 
 - **Per-display wallpapers** — set a different video for each connected monitor
