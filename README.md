@@ -29,7 +29,8 @@ MP4, MOV, QuickTime, WebM
 
 ## Usage
 
-1. Click the ✦ icon in the menu bar
+1. Click the <img width="26" height="25" alt="image 3" src="https://github.com/user-attachments/assets/33756d60-4816-417f-946f-8b837c98f7e0" />
+ icon in the menu bar
 2. Select a display, then choose **Select Video…**
 3. Pick a video file — it starts playing as your wallpaper immediately
 4. Use **Pause All / Play All** to toggle playback
