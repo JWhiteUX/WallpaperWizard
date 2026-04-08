@@ -1,4 +1,6 @@
+
 # WallpaperWizard
+<img width="1280" height="430" alt="image 4" src="https://github.com/user-attachments/assets/16fae7e3-e085-49e7-9dc2-8115aa0a439b" />
 
 A lightweight macOS menu bar app that plays looping videos as your desktop wallpaper.
 
